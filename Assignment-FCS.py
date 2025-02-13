@@ -10,6 +10,8 @@ elif age >= 13 and age <= 59:
     print( "$15")
 elif age >= 60:
     print( "$8")
+else:
+    print( "invalid input")
 
 #Exercise 2-1
 
